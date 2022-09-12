@@ -8,6 +8,6 @@
 **/compose*
 **/Dockerfile*
 **/node_modules
-README.md
+**README.md
 **/docs
-package-lock.json
+**package-lock.json
